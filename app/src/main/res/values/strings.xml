@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Calculadora 📱</string>
+
+    <string name="n0">0</string>
+    <string name="n1">1</string>
+    <string name="n2">2</string>
+    <string name="n3">3</string>
+    <string name="n4">4</string>
+    <string name="n5">5</string>
+    <string name="n6">6</string>
+    <string name="n7">7</string>
+    <string name="n8">8</string>
+    <string name="n9">9</string>
+
+    <string name="s1">0</string>
+
+    <string name="suma">+</string>
+    <string name="resta">-</string>
+    <string name="igual">=</string>
+    <string name="division">/</string>
+    <string name="multi">x</string>
+    <string name="limpiar">C</string>
+    <string name="punto">.</string>
+
+    <string name="secante">Sec x</string>
+    <string name="coseno">Cos x</string>
+    <string name="seno">Sin x</string>
+    <string name="cosecante">Csc x</string>
+    <string name="tangente">Tan x</string>
+    <string name="cotangente">Cot x</string>
+    <string name="exponencial">e^x</string>
+    <string name="logaritmo">Ln x</string>
+
+
+</resources>
